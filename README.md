@@ -1,8 +1,8 @@
 # KRWParralel
 This project contains:
-A linear version of the KRW algorithm
-A parallel version of the KRW algorithm
-Helper files
+A linear version of the KRW algorithm,
+A parallel version of the KRW algorithm,
+Helper files 
 and a kmeans implementation as well as a spectral.
 
 A community Detection Algorithm that uses a modified version of pregel, the version for python. 
